@@ -2,4 +2,4 @@
 
 Repositorio de documentación interna de la Fábrica de Cervezas Alhambra sin alcohol.
 
-**Autor:** <tu nombre>
+**Autor:** Victoria Segovia
