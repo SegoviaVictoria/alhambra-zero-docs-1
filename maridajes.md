@@ -5,6 +5,7 @@
 
 ## Alhambra 0,0 Tostada
 - Frutos secos
+- Ej: maní y pistachos
 
 ## Alhambra 0,0 Edición Granada
 - Tabla de quesos
