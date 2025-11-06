@@ -1,0 +1,1 @@
+Es necesario proteger la rama principal para impedir push que rompan el codigo.
